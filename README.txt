@@ -29,9 +29,10 @@ No concurrent-writer locking; last successful replace wins. Ownership, ACLs
 and extended attributes are not preserved. Directory metadata is not fsynced,
 so this is not a guarantee of durability across a power failure.
 
-Small Python fixes available
-Overnight availability ends at 08:00 Singapore time on 2026-10-19.
-Only scope that can be completed by then will be accepted.
+Overnight service offer ended
+The availability deadline was 08:00 Singapore time on 2026-10-19.
+No new work is being accepted under this overnight offer.
+The original offer terms below are retained for context.
 $15 fixed for one agreed, reproducible script bug. AI-assisted delivery,
 modified source, run instructions, relevant regression check, one revision.
 Scope and payment in the USD equivalent of Litecoin (LTC) agreed before work.
